@@ -17,9 +17,12 @@ var c = null;
 //variavel boleana, pode ser true ou false, para aplicações boleanas
 var d = true;
 
+var e = false;
+
 console.log(a)
 console.log(b)
 console.log(c)
 console.log(d)
+console.log(e)
 
 
